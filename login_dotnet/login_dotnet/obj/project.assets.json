@@ -2295,11 +2295,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS_code\\3.side_project\\login_dotnet\\login_dotnet\\login_dotnet\\login_dotnet.csproj",
+      "projectUniqueName": "D:\\VS_code\\3.side_project\\Login\\login_dotnet\\login_dotnet\\login_dotnet.csproj",
       "projectName": "login_dotnet",
-      "projectPath": "D:\\VS_code\\3.side_project\\login_dotnet\\login_dotnet\\login_dotnet\\login_dotnet.csproj",
+      "projectPath": "D:\\VS_code\\3.side_project\\Login\\login_dotnet\\login_dotnet\\login_dotnet.csproj",
       "packagesPath": "C:\\Users\\K958\\.nuget\\packages\\",
-      "outputPath": "D:\\VS_code\\3.side_project\\login_dotnet\\login_dotnet\\login_dotnet\\obj\\",
+      "outputPath": "D:\\VS_code\\3.side_project\\Login\\login_dotnet\\login_dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

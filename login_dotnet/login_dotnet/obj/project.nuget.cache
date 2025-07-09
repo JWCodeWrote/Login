@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3kyHdo81kPk=",
+  "dgSpecHash": "QT2MlTrawQY=",
   "success": true,
-  "projectFilePath": "D:\\VS_code\\3.side_project\\login_dotnet\\login_dotnet\\login_dotnet\\login_dotnet.csproj",
+  "projectFilePath": "D:\\VS_code\\3.side_project\\Login\\login_dotnet\\login_dotnet\\login_dotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\K958\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",
     "C:\\Users\\K958\\.nuget\\packages\\azure.identity\\1.13.2\\azure.identity.1.13.2.nupkg.sha512",
