@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "login_dotnet", "login_dotnet\login_dotnet.csproj", "{0A058E40-B816-40FD-A496-8F53083E7D3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E0D8A66F-0C47-48A6-84C9-1146D9EFBD4D}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A058E40-B816-40FD-A496-8F53083E7D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A058E40-B816-40FD-A496-8F53083E7D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A058E40-B816-40FD-A496-8F53083E7D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A058E40-B816-40FD-A496-8F53083E7D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

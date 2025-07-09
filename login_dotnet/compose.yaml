@@ -1,0 +1,7 @@
+﻿services:
+  login_dotnet:
+    image: login_dotnet
+    build:
+      context: .
+      dockerfile: login_dotnet/Dockerfile
+
